@@ -1,0 +1,12 @@
+All we did:
+
+=>Nodejs and its intro
+=>Create our server. module (http).
+=>Module Creation.  Date and callinf of separate function
+=>We serve Html to Nodejs server.
+
+@Task :
+Create a server file , pass a date function to return only the time .
+
+*serve a html file with H1 tag to tell " your first experience with nodejs environment.".
+*Create a file system to perform CRUD action (create file, read file , update file and delete file)
