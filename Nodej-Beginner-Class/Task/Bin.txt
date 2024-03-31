@@ -2,7 +2,7 @@ All we did:
 
 =>Nodejs and its intro
 =>Create our server. module (http).
-=>Module Creation.  Date and callinf of separate function
+=>Module Creation.  Date and calling of separate function
 =>We serve Html to Nodejs server.
 
 @Task :
